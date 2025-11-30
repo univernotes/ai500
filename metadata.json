@@ -1,0 +1,5 @@
+{
+  "name": "AgroScore AI",
+  "description": "AI-powered credit scoring system for farmers using satellite data and alternative metrics for Agrobank hackathon.",
+  "requestFramePermissions": []
+}
